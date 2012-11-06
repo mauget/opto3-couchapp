@@ -1,0 +1,19 @@
+{
+    "name": "opto",
+    "version": "0.0.1",
+    "description": "Demo Mobile App",
+    "attachments": ["index.html", "scripts/controller.js", "images/eyes26.gif"],
+    "modules": ["lib"],
+    "load": "lib/app",
+    "handlebars": {
+        "all_partials": true,
+        "templates": "templates"
+    },
+    "dependencies": {
+        "attachments": null,
+        "modules": null,
+        "properties": null,
+        "db": null,
+        "handlebars": null
+    }
+}

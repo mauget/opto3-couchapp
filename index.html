@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html class="ui-mobile"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<title>Optometrists</title> 
+	
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
+	<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
+	<script src="scripts/controller.js"></script>
+	<style>
+	.center
+	{
+	margin-left:auto;
+	margin-right:auto;
+	width:50%;
+	}
+	</style>
+</head> 
+
+<body class="ui-mobile-viewport ui-overlay-c"> 
+
+<!-- Start of splash page: #one -->
+<div data-role="page" id="one" tabindex="0" class="ui-page ui-body-d ui-page-active" >
+
+	<div data-role="header" class="ui-header ui-bar-a" role="banner">
+		<h4 class="ui-title" role="heading" aria-level="1">Opto</h4>
+	</div><!-- /header -->
+
+	<div data-role="content" class="ui-content" role="main" data-theme="d">
+		<div id="splashDiv" class="content-primary center" >
+			<img src="images/eyes26.gif" alt="Optometrist Loccator">
+			<p>Find an optometrist by USA state, city, and address</p>
+		</div><!-- content-primary -->	
+		<a href="#two" data-role="button" data-inline="false" data-theme="b">Enter</a>
+	</div><!-- /content -->
+
+	<div data-role="footer" class="ui-footer ui-bar-a" role="contentinfo">
+		<h4 class="ui-title" role="heading" aria-level="1">Demo</h4>
+	</div><!-- /footer -->
+
+</div><!-- /splash page #one -->
+
+<!-- Start of first page: #two -->
+<div data-role="page" id="two" data-add-back-btn="true" data-back-btn-theme="c"tabindex="0" class="ui-page ui-body-c" >
+
+	<div data-role="header" class="ui-header ui-bar-a" role="banner">
+		<h4 class="ui-title" role="heading" aria-level="1">(1) Opto States</h4>
+	</div><!-- /header -->
+
+	<div data-role="content" class="ui-content" data-theme="b">
+		<div id="statesdiv" class="content-primary">
+			<ul id="states" data-role="listview" data-inset="true">
+			</ul><!-- list of state buttons -->
+		</div><!-- content-primary -->
+	</div><!-- /content -->
+	
+	<div data-role="footer" class="ui-footer ui-bar-a" role="contentinfo">
+		<h4 class="ui-title" role="heading" aria-level="1">Demo</h4>
+	</div><!-- /footer -->
+	
+</div><!-- /page two -->
+
+<!-- Start of second page: #three -->
+<div data-role="page" id="three" data-add-back-btn="true" data-back-btn-theme="c" data-theme="a">
+
+	<div data-role="header"class="ui-header ui-bar-a" role="banner">
+		<h4 id="headerPg2">(2) Opto Cities</h4>
+	</div><!-- /header -->
+
+	<div data-role="content" data-theme="b">
+		<div id="citiesdiv" class="content-primary">
+			<ol id="cities" data-role="listview" data-inset="true">
+			</ol><!-- list of state buttons -->
+		</div><!-- content-primary -->
+	</div><!-- /content -->
+	
+	<div data-role="footer">
+		<h4>Demo</h4>
+	</div><!-- /footer -->
+</div><!-- /page three -->
+
+<!-- Start of third page: #four -->
+<div data-role="page" id="four" data-add-back-btn="true" data-back-btn-theme="c" data-theme="b">
+
+	<div data-role="header"class="ui-header ui-bar-a" role="banner">
+		<h4 id="headerPg3">(3) Opto Detail</h4>
+	</div><!-- /header -->
+
+	<div data-role="content" data-theme="b">
+		<div id="detailDiv" class="content-primary">
+			<div id="details">
+			</div>
+		</div><!-- content-primary -->
+	</div><!-- /content -->
+	
+	<div data-role="footer">
+		<h4>Demo</h4>
+	</div><!-- /footer -->
+</div><!-- /page four -->
+
+<div class="ui-loader ui-corner-all ui-body-a ui-loader-default"><span class="ui-icon ui-icon-loading"></span><h1>loading</h1></div>
+</body>
+</html>
