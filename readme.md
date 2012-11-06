@@ -1,4 +1,4 @@
-Opto3 - A Mobile Couch App 
+Opto3 - A Mobile CouchApp 
 ==========================
 What
 --------------
