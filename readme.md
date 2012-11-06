@@ -23,9 +23,10 @@ Installation
 2. Install [Kanso](http://kan.so/) - pre-requisite is [Nodejs](http://nodejs.org/)
 3. Open [*Futon*](http://127.0.0.1:5984/_utils/) in a browser; create the **opto3** database
 4. Get this project from GitHub
-5 Open a command window in the project directory
-6 `kanso install` -- like make or ant
-7 `kanso push http://<user>:<pw>@localhost:5984/opto3` or `kanso push http://localhost:5984/opto3`
+5. Open a command window in the project directory
+6. `kanso install` -- like make or ant
+7. `kanso push http://<user>:<pw>@localhost:5984/opto3`
+8. Push the sample database: `kanos <todo>`
 	
 Execution
 -----------
