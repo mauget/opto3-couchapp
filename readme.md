@@ -35,7 +35,7 @@ Install from GitHub
 1. Visually verify in [*Futon*](http://127.0.0.1:5984/_utils/)
 1. Replicate to your own Cloudant account, if desired (Use Futon, curl or REST client) 
   
-Alternative: Replicate A New Opto3 from Cloudant
+Alternative: Replicate Opto3 from Cloudant
 ------------------------------------
 1. Install a local CouchDB or procure a Cloudant account. 
 1. Clone [http://mauget.cloudant.com/opto3/](http://mauget.cloudant.com/opto3/) choosing a method noted 
@@ -44,7 +44,7 @@ at [http://guide.couchdb.org/draft/replication.html](http://guide.couchdb.org/dr
 Execution
 -----------
 * In your local machine: [http://127.0.0.1:5984/opto3/_design/opto/index.html](http://127.0.0.1:5984/opto3/_design/opto/index.html)
-* If using Cloudant: [http://USER.cloudant.com/opto3/_design/opto/index.html](http://USER.cloudant.com/opto3/_design/opto/index.html)
+* If using Cloudant: [http://YOU.cloudant.com/opto3/_design/opto/index.html](http://mauget.cloudant.com/opto3/_design/opto/index.html)
 	
 Panels
 ------------
