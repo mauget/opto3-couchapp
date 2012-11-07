@@ -53,12 +53,13 @@ Panels
 1. Clickable list of city addresses for each optometrist in the clicked state
 1. Details of an optometrist for a clicked address
 
-![Splash](https://github.com/mauget/opto3-couchapp/blob/master/splash.png)
 
-![States](https://github.com/mauget/opto3-couchapp/blob/master/states.png)
+![Splash](https://github.com/mauget/opto3-couchapp/raw/master/splash.png)
 
-![Cities](https://github.com/mauget/opto3-couchapp/blob/master/cities.png)
+![States](https://github.com/mauget/opto3-couchapp/raw/master/states.png)
 
-![Details](https://github.com/mauget/opto3-couchapp/blob/master/details.png)
+![Cities](https://github.com/mauget/opto3-couchapp/raw/master/cities.png)
+
+![Details](https://github.com/mauget/opto3-couchapp/raw/master/details.png)
 
 [Lou Mauget lmauget@keyholesoftware.com](mailto:lmauget@keyholesoftware.com)
