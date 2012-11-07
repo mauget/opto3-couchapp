@@ -46,17 +46,25 @@ Execution
 * In your local machine: [http://127.0.0.1:5984/opto3/_design/opto/index.html](http://127.0.0.1:5984/opto3/_design/opto/index.html)
 * If using Cloudant: [http://YOU.cloudant.com/opto3/_design/opto/index.html](http://mauget.cloudant.com/opto3/_design/opto/index.html)
 	
-Panels
+Opto3 Has Four Panels
 ------------
-1. Splash screen
-1. Clickable list of states with count of demo optometrists for each
-1. Clickable list of city addresses for each optometrist in the clicked state
-1. Details of an optometrist for a clicked address
+1. **Splash screen:** 
+
+ ![Splash](https://github.com/mauget/opto3-couchapp/raw/master/splash.png)
+
+1. **Clickable list of states with count of demo optometrists for each:**
+ 
+ ![States](https://github.com/mauget/opto3-couchapp/raw/master/states.png)
 
 
-* ![Splash](https://github.com/mauget/opto3-couchapp/raw/master/splash.png)
-* ![States](https://github.com/mauget/opto3-couchapp/raw/master/states.png)
-* ![Cities](https://github.com/mauget/opto3-couchapp/raw/master/cities.png)
-* ![Details](https://github.com/mauget/opto3-couchapp/raw/master/details.png)
+1. **Clickable list of city addresses for each optometrist in the clicked state:** 
+
+ ![Cities](https://github.com/mauget/opto3-couchapp/raw/master/cities.png)
+
+
+1. **Details of an optometrist for a clicked address:** 
+
+ ![Details](https://github.com/mauget/opto3-couchapp/raw/master/details.png)
+
 
 [Lou Mauget lmauget@keyholesoftware.com](mailto:lmauget@keyholesoftware.com)
