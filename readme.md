@@ -49,6 +49,8 @@ Execution
 Panels
 ------------
 1. Splash screen
-2. Clickable list of states with count of demo optometrists for each
-3. Clickable list of city addresses for each optometrist in the clicked state
-4. Details of an optometrist for a clicked address
+1. Clickable list of states with count of demo optometrists for each
+1. Clickable list of city addresses for each optometrist in the clicked state
+1. Details of an optometrist for a clicked address
+
+[Lou Mauget lmauget@keyholesoftware.com](mailto:lmauget@keyholesoftware.com)
