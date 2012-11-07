@@ -54,6 +54,9 @@ Panels
 1. Details of an optometrist for a clicked address
 
 
-![Splash](https://github.com/mauget/opto3-couchapp/raw/master/splash.png)![States](https://github.com/mauget/opto3-couchapp/raw/master/states.png)![Cities](https://github.com/mauget/opto3-couchapp/raw/master/cities.png)![Details](https://github.com/mauget/opto3-couchapp/raw/master/details.png)
+* ![Splash](https://github.com/mauget/opto3-couchapp/raw/master/splash.png)
+* ![States](https://github.com/mauget/opto3-couchapp/raw/master/states.png)
+* ![Cities](https://github.com/mauget/opto3-couchapp/raw/master/cities.png)
+* ![Details](https://github.com/mauget/opto3-couchapp/raw/master/details.png)
 
 [Lou Mauget lmauget@keyholesoftware.com](mailto:lmauget@keyholesoftware.com)
