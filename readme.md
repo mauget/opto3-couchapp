@@ -16,7 +16,7 @@ in JavaScript. The Opto3 code consists of:
 * two CouchDB map/reduce view functions,
 * two CouchDB list functions,
 * one CouchDB show function,
-* three Mustache templates,
+* three handlebars templates,
 * a small controller that mediates UI events with DB views given to list and show CouchDB functions through the CouchDB REST API,
 * and index.html - a JQuery Mobile single-page that defines four panels
 
